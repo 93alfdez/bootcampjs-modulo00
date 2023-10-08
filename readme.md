@@ -1,4 +1,4 @@
-# 1. Crear un respositorio en local
+# 1. Crear un repositorio en local
 
 Creo la carpeta _bootcampjs-modulo00_ en el directorio donde quiero tenerlo.
 
