@@ -15,3 +15,11 @@ Una vez abierto en code, inicializamos el repositorio de Git.
 Creo un nuevo repositorio en GitHub que se llama _bootcampjs-modulo00_
 
 <img width="600" src="./content/03.crearRepoGit.png"/>
+
+Con el comando _git remote add origin git@github.com:93alfdez/bootcampjs-modulo00.git_ lo conecto con GitHub
+
+Posteriormente subo la rama _master_ con _git push -u origin master_
+
+Refresco en GitHub y veo que la rama _master_ se ha creado sin problema y que los directorios se han conectado.
+
+<img width="600" src="./content/04.conexionGitHub.png"/>
