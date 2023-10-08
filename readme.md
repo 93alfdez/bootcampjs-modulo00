@@ -23,3 +23,5 @@ Posteriormente subo la rama _master_ con _git push -u origin master_
 Refresco en GitHub y veo que la rama _master_ se ha creado sin problema y que los directorios se han conectado.
 
 <img width="600" src="./content/04.conexionGitHub.png"/>
+
+# 3. Hacer un commit y un push
